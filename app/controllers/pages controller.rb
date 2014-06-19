@@ -1,0 +1,2 @@
+PagesController < ActionController::Base
+end
